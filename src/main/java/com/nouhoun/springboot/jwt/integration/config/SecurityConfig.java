@@ -20,7 +20,7 @@ import org.springframework.security.oauth2.provider.token.store.JwtAccessTokenCo
 import org.springframework.security.oauth2.provider.token.store.JwtTokenStore;
 
 /**
- * Created by nydiarra on 06/05/17.
+ * Created by agarima on 06/05/17.
  */
 @Configuration
 @EnableWebSecurity
