@@ -3,7 +3,7 @@ package com.nouhoun.springboot.jwt.integration.domain;
 import javax.persistence.*;
 
 /**
- * Created by nydiarra on 10/05/17.
+ * Created by agarima on 10/05/17.
  */
 @Entity
 @Table(name = "random_city")
