@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 /**
- * Created by nydiarra on 06/05/17.
+ * Created by agarima on 06/05/17.
  */
 @RestController
 @RequestMapping("/springjwt")
